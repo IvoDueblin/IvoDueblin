@@ -2,7 +2,7 @@
 - 👀 Music production and collaboration
 - 🌱 Mxing and mastering
 - 💞️ How to improve collaboration processes in music production
-- 📫 ivo.dueblin@gail.com
+- 📫 ivo.dueblin@gmail.com
 
 <!---
 IvoDueblin/IvoDueblin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
